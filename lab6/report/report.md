@@ -98,10 +98,10 @@ header-includes:
 
 Ссылки на скринкасты:
 
-- [Выполнение, Youtube]()
-- [Выполнение, Rutube]()
-- [Защита презентации, Youtube]()
-- [Защита презентации, Rutube]()
+- [Выполнение, Youtube](https://youtu.be/i6WOOuqSnmI)
+- [Выполнение, Rutube](https://rutube.ru/video/58e2a166b83a38471cc5e5139d9f7585)
+- [Защита презентации, Youtube](https://youtu.be/Y0iVODs8-YM)
+- [Защита презентации, Rutube](https://rutube.ru/video/adf5eabe687cbcada421e41885f0986b)
 
 # Список литературы
 
